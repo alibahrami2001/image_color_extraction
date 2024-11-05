@@ -1,5 +1,7 @@
 # Image Color Extraction Tool
 
+![Test Image](https://raw.githubusercontent.com/alibahrami2001/image_color_extraction/main/image/image.png)
+
 ## Overview
 The Image Color Extraction Tool allows users to extract and visualize dominant colors from images. It utilizes K-Means clustering to identify and cluster colors for analysis. This tool is designed for artists, designers, and anyone interested in color analysis.
 
