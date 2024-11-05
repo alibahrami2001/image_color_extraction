@@ -47,10 +47,7 @@ pip install numpy pandas matplotlib Pillow scikit-learn gradio
 ## Example
 Watch a demonstration of the Image Color Extraction Tool in action:
 
-<video width="640" height="480" controls>
-  <source src="https://github.com/alibahrami2001/image_color_extraction/blob/main/video/video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Animation](https://github.com/alibahrami2001/image_color_extraction/blob/main/image/Animation.gif)
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
