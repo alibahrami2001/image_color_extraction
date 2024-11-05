@@ -2,6 +2,12 @@
 
 ![Test Image](https://github.com/alibahrami2001/image_color_extraction/blob/main/image/test.png)
 
+# Test the Jupyter Notebook Online
+
+Click the button below to launch the Jupyter Notebook in Google Colab:
+
+[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alibahrami2001/image_color_extraction/blob/main/devbook.ipynb)
+
 ## Overview
 The Image Color Extraction Tool allows users to extract and visualize dominant colors from images. It utilizes K-Means clustering to identify and cluster colors for analysis. This tool is designed for artists, designers, and anyone interested in color analysis.
 
