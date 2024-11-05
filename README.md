@@ -11,6 +11,7 @@ The Image Color Extraction Tool allows users to extract and visualize dominant c
 - Interactive web interface powered by Gradio.
 - Configurable parameters to adjust the number of colors extracted.
 
+![Image](https://github.com/alibahrami2001/image_color_extraction/blob/main/image/acbf4be6-6a5d-4eec-b771-6cafdfbb67f3.png)
 ## Requirements
 To run this project, you need the following Python libraries:
 - `numpy`
