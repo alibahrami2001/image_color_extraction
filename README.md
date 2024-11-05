@@ -56,9 +56,6 @@ Watch a demonstration of the Image Color Extraction Tool in action:
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## Acknowledgments
-- Thanks to the developers of the libraries used in this project.
-- Special thanks to the community for their contributions in color theory and image processing.
-
 ```
 
 Feel free to modify any sections, add examples, or include additional details that you think would be helpful for users!
